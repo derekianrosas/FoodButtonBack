@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a979dd8dd1d5bdca95a7efb5bf2bb716946b669503ed4b02185c64fec1ff15d7"
+            "sha256": "1aad7fef4aa48bdf7ebf21ccff9dce16232ba0e44b26648d11f468e11769730c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -218,6 +218,21 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.3.17"
+        },
+        "sqlalchemy-imageattach": {
+            "hashes": [
+                "sha256:7a143a820767458ad07380a4e405126bba5cfe5b74478f317d4d58e44cdc1df4",
+                "sha256:a9e3d56da889119e2105b3fee660ec259bb3b51be28173efb1ba129a52710ec4"
+            ],
+            "index": "pypi",
+            "version": "==1.1.0"
+        },
+        "wand": {
+            "hashes": [
+                "sha256:d5b75ac13d7485032970926415648586eafeeb1eb62ed6ebd0778358cf9d70e0",
+                "sha256:df0780b1b54938a43d29279a6588fde11e349550c8958a673d57c26a3e6de7f1"
+            ],
+            "version": "==0.6.1"
         },
         "werkzeug": {
             "hashes": [
